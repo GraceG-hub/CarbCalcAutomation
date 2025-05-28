@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-27T23:01:28 EDT" name="Suite" finished-at="2025-05-27T23:02:00 EDT" duration-ms="31905">
+    <groups>
+      <group name="Smoke">
+        <method signature="CarbCalcTest.carbCalcDisplay_TC_CC_001()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" name="carbCalcDisplay_TC_CC_001" class="carb.calc.tests.CarbCalcTest"/>
+        <method signature="CarbCalcTest.carbCalcWithMetrics_TC_CC_002()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" name="carbCalcWithMetrics_TC_CC_002" class="carb.calc.tests.CarbCalcTest"/>
+        <method signature="CarbCalcTest.carbCalcWithUsUnits_TC_CC_003()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" name="carbCalcWithUsUnits_TC_CC_003" class="carb.calc.tests.CarbCalcTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2025-05-27T23:01:28 EDT" name="Carb Calc Tests" finished-at="2025-05-27T23:02:00 EDT" duration-ms="31905">
+      <class name="carb.calc.tests.CarbCalcTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" started-at="2025-05-27T23:01:28 EDT" name="launchApplication" finished-at="2025-05-27T23:01:38 EDT" duration-ms="10204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="carbCalcDisplay_TC_CC_001()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" started-at="2025-05-27T23:01:38 EDT" name="carbCalcDisplay_TC_CC_001" finished-at="2025-05-27T23:01:39 EDT" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carbCalcDisplay_TC_CC_001 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" started-at="2025-05-27T23:01:39 EDT" name="tearDown" finished-at="2025-05-27T23:01:40 EDT" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" started-at="2025-05-27T23:01:40 EDT" name="launchApplication" finished-at="2025-05-27T23:01:47 EDT" duration-ms="6698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="carbCalcWithMetrics_TC_CC_002()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" started-at="2025-05-27T23:01:47 EDT" name="carbCalcWithMetrics_TC_CC_002" finished-at="2025-05-27T23:01:49 EDT" duration-ms="2588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carbCalcWithMetrics_TC_CC_002 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" started-at="2025-05-27T23:01:49 EDT" name="tearDown" finished-at="2025-05-27T23:01:50 EDT" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" started-at="2025-05-27T23:01:50 EDT" name="launchApplication" finished-at="2025-05-27T23:01:56 EDT" duration-ms="5614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="carbCalcWithUsUnits_TC_CC_003()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" started-at="2025-05-27T23:01:56 EDT" name="carbCalcWithUsUnits_TC_CC_003" finished-at="2025-05-27T23:01:59 EDT" duration-ms="2850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carbCalcWithUsUnits_TC_CC_003 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:carb.calc.tests.CarbCalcTest@7d0b7e3c]" started-at="2025-05-27T23:01:59 EDT" name="tearDown" finished-at="2025-05-27T23:02:00 EDT" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- carb.calc.tests.CarbCalcTest -->
+    </test> <!-- Carb Calc Tests -->
+  </suite> <!-- Suite -->
+</testng-results>
